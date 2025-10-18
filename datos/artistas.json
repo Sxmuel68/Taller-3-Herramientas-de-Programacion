@@ -1,0 +1,47 @@
+[
+  {
+    "nombre": "50 Cent",
+    "imagen": "imagenes/50cent.jpg",
+    "canciones": [
+      { "titulo": "21 Questions", "archivo": "musica/21_Questions.mp3" },
+      { "titulo": "Best Friend", "archivo": "musica/Best_Friend.mp3.mp3" },
+      { "titulo": "Hate or love it", "archivo": "musica/Hate_it_Or_Love_It.mp3" }
+    ]
+  },
+  {
+    "nombre": "Alcolirykoz",
+    "imagen": "imagenes/alcolirykoz.jpg",
+    "canciones": [
+      { "titulo": "Estetograma", "archivo": "musica/Estetograma.mp3" },
+      { "titulo": "Piñata en el 301", "archivo": "musica/Piñata_en_el_301.mp3" },
+      { "titulo": "Todo Lo Bueno Tarda", "archivo": "musica/Todo_Lo_Bueno_Tarda.mp3" }
+    ]
+  },
+  {
+    "nombre": "Blessd",
+    "imagen": "imagenes/blessd.jpg",
+    "canciones": [
+      { "titulo": "MÍRAME", "archivo": "musica/MÍRAME.mp3" },
+      { "titulo": "BLESSD BARRIO ANTIOQUIA", "archivo": "musica/BLESSD_BARRIO_ANTIOQUIA.mp3" }
+    ]
+  },
+  {
+    "nombre": "Eladio Carrion",
+    "imagen": "imagenes/eladiocarrion.jpg",
+    "canciones": [
+      { "titulo": "Kemba Walker", "archivo": "musica/Kemba_Walker.mp3" },
+      { "titulo": "Mbappe", "archivo": "musica/Mbappe.mp3" },
+      { "titulo": "Almohada", "archivo": "musica/almohada.mp3" }
+
+    ]
+  },
+  {
+    "nombre": "Nengo Flow",
+    "imagen": "imagenes/NengoFlow.jpg",
+    "canciones": [
+      { "titulo": "Devorame", "archivo": "musica/Devorame.mp3" },
+      { "titulo": "En Las Noches Frias", "archivo": "musica/En_Las_Noches_Frias.mp3" },
+      { "titulo": "No Dice Na", "archivo": "musica/No_Dice_Na.mp3" }
+    ]
+  }
+]
