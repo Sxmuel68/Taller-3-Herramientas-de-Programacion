@@ -5,4 +5,5 @@ la reproducción mediante una interfaz moderna, elegante y fácil de usar. El ob
 
 👥 Créditos y autoría
 
-Proyecto desarrollado por Cristian Vega Lora y Samuel Herrera Rojas.
+Proyecto desarrollado por Samuel Herrera Rojas, Cristian Vega Lora
+
