@@ -1,0 +1,4 @@
+🎵 Descripción general
+
+Este proyecto es una aplicación de escritorio desarrollada en Java que permite visualizar artistas y sus canciones, reproducir archivos MP3, mostrar imágenes asociadas y controlar la reproducción mediante una interfaz moderna, elegante y fácil de usar.
+El objetivo es ofrecer una experiencia intuitiva y fluida para explorar música latina y disfrutar de sus principales éxitos.
